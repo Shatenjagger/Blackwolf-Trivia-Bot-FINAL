@@ -1,0 +1,1250 @@
+[
+  {
+    "categoria": "consolas",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿En qué año se lanzó la consola Nintendo Entertainment System (NES) en América del Norte?",
+    "respuesta_correcta": "1985",
+    "respuestas_incorrectas": [
+      "1983",
+      "1987",
+      "1989"
+    ],
+    "pista": "Fue un lanzamiento limitado al principio, antes de su expansión nacional."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Cuál es el nombre del fontanero italiano que debutó en Donkey Kong?",
+    "respuesta_correcta": "Mario",
+    "respuestas_incorrectas": [
+      "Luigi",
+      "Toad",
+      "Wario"
+    ],
+    "pista": "Originalmente se llamaba Jumpman."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola de 16 bits fue lanzada por Sega como competidora del SNES?",
+    "respuesta_correcta": "Sega Genesis",
+    "respuestas_incorrectas": [
+      "Atari Jaguar",
+      "TurboGrafx-16",
+      "Neo Geo"
+    ],
+    "pista": "Conocida como Mega Drive en Europa y Japón."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Qué juego de puzzle se incluyó con el Game Boy y ayudó a su éxito mundial?",
+    "respuesta_correcta": "Tetris",
+    "respuestas_incorrectas": [
+      "Dr. Mario",
+      "Pokémon Rojo",
+      "Kirby's Dream Land"
+    ],
+    "pista": "Fue creado en la Unión Soviética."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Street Fighter es conocido por su 'Hadouken' y su traje blanco?",
+    "respuesta_correcta": "Ryu",
+    "respuestas_incorrectas": [
+      "Ken",
+      "Chun-Li",
+      "Blanka"
+    ],
+    "pista": "Es el protagonista principal de la serie original."
+  },
+  {
+    "categoria": "trucos_y_cheats",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Qué juego de Konami es famoso por el código: arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A?",
+    "respuesta_correcta": "Contra",
+    "respuestas_incorrectas": [
+      "Castlevania",
+      "Teenage Mutant Ninja Turtles",
+      "Gradius"
+    ],
+    "pista": "También conocido como el 'Código Konami'."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿En qué consola se lanzó originalmente The Legend of Zelda: A Link to the Past?",
+    "respuesta_correcta": "Super Nintendo",
+    "respuestas_incorrectas": [
+      "Nintendo 64",
+      "Game Boy",
+      "NES"
+    ],
+    "pista": "Fue un juego clave para el lanzamiento del SNES en Japón."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1990s",
+    "pregunta": "¿Qué erizo azul es el ícono de Sega?",
+    "respuesta_correcta": "Sonic",
+    "respuestas_incorrectas": [
+      "Tails",
+      "Knuckles",
+      "Dr. Eggman"
+    ],
+    "pista": "Debutó en 1991 para competir con Mario."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1980s",
+    "pregunta": "¿Qué compañía desarrolló la saga 'Metal Gear'?",
+    "respuesta_correcta": "Konami",
+    "respuestas_incorrectas": [
+      "Capcom",
+      "Square",
+      "Namco"
+    ],
+    "pista": "También creó juegos como Castlevania y Contra."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Qué consola portátil de Nintendo fue lanzada en 1989?",
+    "respuesta_correcta": "Game Boy",
+    "respuestas_incorrectas": [
+      "Game Gear",
+      "WonderSwan",
+      "Neo Geo Pocket"
+    ],
+    "pista": "Tenía gráficos en blanco y negro y una batería de larga duración."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Cuál es el nombre del hermano de Mario que viste overoles verdes?",
+    "respuesta_correcta": "Luigi",
+    "respuestas_incorrectas": [
+      "Wario",
+      "Toad",
+      "Yoshi"
+    ],
+    "pista": "Apareció por primera vez en Mario Bros. como jugador 2."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de lucha de Midway causó polémica por su violencia en los 90?",
+    "respuesta_correcta": "Mortal Kombat",
+    "respuestas_incorrectas": [
+      "Street Fighter II",
+      "Tekken",
+      "Fatal Fury"
+    ],
+    "pista": "Es famoso por sus movimientos 'Fatalities'."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "basico",
+    "decada": "1970s",
+    "pregunta": "¿Qué consola de 8 bits fue lanzada por Atari en 1977?",
+    "respuesta_correcta": "Atari 2600",
+    "respuestas_incorrectas": [
+      "Atari 5200",
+      "ColecoVision",
+      "Intellivision"
+    ],
+    "pista": "Originalmente se llamaba Atari VCS."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Nintendo pilota la nave Arwing en la serie Star Fox?",
+    "respuesta_correcta": "Fox McCloud",
+    "respuestas_incorrectas": [
+      "Falco Lombardi",
+      "Peppy Hare",
+      "Slippy Toad"
+    ],
+    "pista": "Su padre fue James McCloud."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de plataformas tiene como protagonista a un dinosaurio verde que come frutas?",
+    "respuesta_correcta": "Yoshi's Island",
+    "respuestas_incorrectas": [
+      "Super Mario World",
+      "Donkey Kong Country",
+      "Kirby's Adventure"
+    ],
+    "pista": "Es conocido por su estilo artístico de dibujos infantiles."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola de Nintendo usaba cartuchos en forma de hongo y tenía un chip en 3D?",
+    "respuesta_correcta": "Nintendo 64",
+    "respuestas_incorrectas": [
+      "GameCube",
+      "Super Nintendo",
+      "Wii"
+    ],
+    "pista": "Fue lanzada en 1996 y tenía un controlador con palanca analógica."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "dificil",
+    "decada": "1980s",
+    "pregunta": "¿Qué saga de juegos de aventuras fue creada por Hironobu Sakaguchi?",
+    "respuesta_correcta": "Final Fantasy",
+    "respuestas_incorrectas": [
+      "Dragon Quest",
+      "Chrono Trigger",
+      "King's Field"
+    ],
+    "pista": "El primer juego fue lanzado en 1987 para NES."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "2000s",
+    "pregunta": "¿Qué personaje de The Legend of Zelda puede transformarse en lobo?",
+    "respuesta_correcta": "Link",
+    "respuestas_incorrectas": [
+      "Zelda",
+      "Ganondorf",
+      "Midna"
+    ],
+    "pista": "Ocurre en The Legend of Zelda: Twilight Princess."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué compañía desarrolló los primeros juegos de Pokémon?",
+    "respuesta_correcta": "Game Freak",
+    "respuestas_incorrectas": [
+      "Creatures Inc.",
+      "Nintendo",
+      "Shigesato Itoi"
+    ],
+    "pista": "El director de la compañía es Satoshi Tajiri."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de carreras de Nintendo fue uno de los primeros en usar gráficos 3D pseudo-isométricos?",
+    "respuesta_correcta": "F-Zero",
+    "respuestas_incorrectas": [
+      "Super Mario Kart",
+      "Rad Racer",
+      "Out Run"
+    ],
+    "pista": "Protagonizado por Captain Falcon y lanzado con el SNES."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿En qué año se lanzó la Super Nintendo Entertainment System (SNES) en Japón?",
+    "respuesta_correcta": "1990",
+    "respuestas_incorrectas": [
+      "1989",
+      "1991",
+      "1992"
+    ],
+    "pista": "Fue lanzada como Super Famicom."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje es conocido por decir 'It's a-me, Mario!'?",
+    "respuesta_correcta": "Mario",
+    "respuestas_incorrectas": [
+      "Luigi",
+      "Bowser",
+      "Toad"
+    ],
+    "pista": "Su voz clásica fue hecha por Charles Martinet."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola usaba discos ópticos y fue lanzada por Sega en 1994?",
+    "respuesta_correcta": "Sega CD",
+    "respuestas_incorrectas": [
+      "3DO",
+      "TurboDuo",
+      "PlayStation"
+    ],
+    "pista": "Fue un accesorio para el Sega Genesis."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "2000s",
+    "pregunta": "¿Qué juego de plataformas tiene como protagonista a un hongo llamado Yume Nikki?",
+    "respuesta_correcta": "Yume Nikki",
+    "respuestas_incorrectas": [
+      "EarthBound",
+      "Ico",
+      "Psychonauts"
+    ],
+    "pista": "Es un juego indie japonés de exploración surrealista."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Qué personaje de Mega Man puede copiar las habilidades de otros robots?",
+    "respuesta_correcta": "Mega Man",
+    "respuestas_incorrectas": [
+      "Proto Man",
+      "Bass",
+      "Roll"
+    ],
+    "pista": "Cada jefe derrotado le da un nuevo poder."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Qué consola fue conocida como 'Famicom' en Japón?",
+    "respuesta_correcta": "Nintendo Entertainment System",
+    "respuestas_incorrectas": [
+      "Super Nintendo",
+      "Sega Master System",
+      "Atari 2600"
+    ],
+    "pista": "Fue lanzada primero en Japón en 1983."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de aventuras tiene como protagonista a un niño llamado Ness?",
+    "respuesta_correcta": "EarthBound",
+    "respuestas_incorrectas": [
+      "Super Mario RPG",
+      "Chrono Trigger",
+      "Mother 3"
+    ],
+    "pista": "Conocido como Mother 2 en Japón."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1980s",
+    "pregunta": "¿Qué compañía desarrolló la serie 'Castlevania'?",
+    "respuesta_correcta": "Konami",
+    "respuestas_incorrectas": [
+      "Capcom",
+      "Taito",
+      "Namco"
+    ],
+    "pista": "También creó la saga 'Contra'."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Nintendo es un dragón verde que ayuda a Mario?",
+    "respuesta_correcta": "Yoshi",
+    "respuestas_incorrectas": [
+      "Toad",
+      "Koopa",
+      "Birdo"
+    ],
+    "pista": "Puede comer enemigos y poner huevos."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola de 32 bits compitió con PlayStation y Nintendo 64?",
+    "respuesta_correcta": "Sega Saturn",
+    "respuestas_incorrectas": [
+      "3DO",
+      "Atari Jaguar",
+      "Neo Geo CD"
+    ],
+    "pista": "Tenía arquitectura compleja para los desarrolladores."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de plataformas tiene niveles con música bailable y gráficos coloridos?",
+    "respuesta_correcta": "PaRappa the Rapper",
+    "respuestas_incorrectas": [
+      "Gitaroo Man",
+      "Elite Beat Agents",
+      "Vib-Ribbon"
+    ],
+    "pista": "Fue uno de los primeros juegos de ritmo en consola."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de The Legend of Zelda es un villano con forma de cerdo?",
+    "respuesta_correcta": "Ganondorf",
+    "respuestas_incorrectas": [
+      "Zant",
+      "Vaati",
+      "Majora"
+    ],
+    "pista": "Es el rey de los Gerudo."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola portátil de Sega competía con el Game Boy?",
+    "respuesta_correcta": "Game Gear",
+    "respuestas_incorrectas": [
+      "Neo Geo Pocket",
+      "WonderSwan",
+      "Atari Lynx"
+    ],
+    "pista": "Tenía pantalla a color, pero duraba poco la batería."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de Nintendo 64 fue uno de los primeros en usar un stick analógico?",
+    "respuesta_correcta": "Super Mario 64",
+    "respuestas_incorrectas": [
+      "Mario Kart 64",
+      "GoldenEye 007",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "pista": "Fue un título de lanzamiento para la consola."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1980s",
+    "pregunta": "¿Qué saga de rol japonés tiene mundos divididos entre espada y magia?",
+    "respuesta_correcta": "Ys",
+    "respuestas_incorrectas": [
+      "Xanadu",
+      "Dragon Slayer",
+      "Populous"
+    ],
+    "pista": "Protagonizada por Adol Christin."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Sonic tiene cola de dos hojas?",
+    "respuesta_correcta": "Miles 'Tails' Prower",
+    "respuestas_incorrectas": [
+      "Knuckles",
+      "Amy Rose",
+      "Shadow"
+    ],
+    "pista": "Puede volar usando sus dos colas."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "basico",
+    "decada": "2000s",
+    "pregunta": "¿Qué consola de Nintendo fue la primera en usar discos GameCube?",
+    "respuesta_correcta": "Nintendo GameCube",
+    "respuestas_incorrectas": [
+      "Wii",
+      "Nintendo 64",
+      "Wii U"
+    ],
+    "pista": "Fue lanzada en 2001."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "basico",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de lucha incluye personajes como Scorpion y Sub-Zero?",
+    "respuesta_correcta": "Mortal Kombat",
+    "respuestas_incorrectas": [
+      "Tekken",
+      "Dead or Alive",
+      "Soul Calibur"
+    ],
+    "pista": "Es famoso por sus movimientos violentos."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué compañía desarrolló 'Crash Bandicoot'?",
+    "respuesta_correcta": "Naughty Dog",
+    "respuestas_incorrectas": [
+      "Insomniac Games",
+      "Rare",
+      "Ubisoft"
+    ],
+    "pista": "También hicieron la saga 'Uncharted'."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de plataformas tiene como protagonista a un gato que canta?",
+    "respuesta_correcta": "PaRappa the Rapper",
+    "respuestas_incorrectas": [
+      "Vib-Ribbon",
+      "Gitaroo Man",
+      "Elite Beat Agents"
+    ],
+    "pista": "Dijo: 'I gotta believe!'"
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "basico",
+    "decada": "2000s",
+    "pregunta": "¿Qué consola fue lanzada por Nintendo en 2001 y usaba discos de 8 cm?",
+    "respuesta_correcta": "Game Boy Advance",
+    "respuestas_incorrectas": [
+      "Nintendo DS",
+      "Game Boy Color",
+      "Wii"
+    ],
+    "pista": "Era compatible con juegos del Game Boy original."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Qué personaje de Metroid es un cazarrecompensas galáctico?",
+    "respuesta_correcta": "Samus Aran",
+    "respuestas_incorrectas": [
+      "Ridley",
+      "Mother Brain",
+      "Kraid"
+    ],
+    "pista": "Es una de las primeras heroínas en videojuegos."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de aventuras tiene como protagonista a un niño con un bate de béisbol?",
+    "respuesta_correcta": "EarthBound",
+    "respuestas_incorrectas": [
+      "Super Mario Bros. 2",
+      "A Boy and His Blob",
+      "Little Nemo"
+    ],
+    "pista": "Puede usar 'PSI' o poderes psíquicos."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1980s",
+    "pregunta": "¿Qué consola de 8 bits fue lanzada por NEC en EE.UU. como TurboGrafx-16?",
+    "respuesta_correcta": "PC Engine",
+    "respuestas_incorrectas": [
+      "MSX",
+      "ZX Spectrum",
+      "Amstrad CPC"
+    ],
+    "pista": "Fue muy popular en Japón."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "basico",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de Nintendo es conocido por su uso de cartas coleccionables?",
+    "respuesta_correcta": "Pokémon",
+    "respuestas_incorrectas": [
+      "Digimon",
+      "Beyblade",
+      "Yu-Gi-Oh!"
+    ],
+    "pista": "Tiene versiones como Rojo, Azul y Amarillo."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Street Fighter usa un traje amarillo y es de Brasil?",
+    "respuesta_correcta": "Blanka",
+    "respuestas_incorrectas": [
+      "E. Honda",
+      "Zangief",
+      "Chun-Li"
+    ],
+    "pista": "Tiene ataques eléctricos y piel verde."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola usaba cartuchos dorados y fue lanzada por Atari en los 90?",
+    "respuesta_correcta": "Atari Jaguar",
+    "respuestas_incorrectas": [
+      "Atari 7800",
+      "Atari Lynx",
+      "ColecoVision"
+    ],
+    "pista": "Se promocionó como la primera consola de 64 bits."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de plataformas tiene niveles basados en pinturas renacentistas?",
+    "respuesta_correcta": "Another World",
+    "respuestas_incorrectas": [
+      "Flashback",
+      "Prince of Persia",
+      "Out of This World"
+    ],
+    "pista": "También conocido como 'Out of This World' en EE.UU."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué compañía desarrolló 'Spyro the Dragon'?",
+    "respuesta_correcta": "Insomniac Games",
+    "respuestas_incorrectas": [
+      "Naughty Dog",
+      "Rare",
+      "Crystal Dynamics"
+    ],
+    "pista": "También creó la saga 'Ratchet & Clank'."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de The Legend of Zelda toca la ocarina del tiempo?",
+    "respuesta_correcta": "Link",
+    "respuestas_incorrectas": [
+      "Zelda",
+      "Navi",
+      "Sheik"
+    ],
+    "pista": "Aprende canciones mágicas para viajar en el tiempo."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola fue la primera en usar tarjetas de memoria para guardar partidas?",
+    "respuesta_correcta": "Nintendo 64",
+    "respuestas_incorrectas": [
+      "Super Nintendo",
+      "Sega Genesis",
+      "PlayStation"
+    ],
+    "pista": "Usaba un accesorio llamado 'Controller Pak'."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de aventuras tiene como protagonista a un niño que lucha contra aliens?",
+    "respuesta_correcta": "EarthBound",
+    "respuestas_incorrectas": [
+      "Super Metroid",
+      "Kid Icarus",
+      "StarTropics"
+    ],
+    "pista": "Incluye referencias a la cultura pop de los 90."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Sonic es un erizo rojo con poderes de fuego?",
+    "respuesta_correcta": "Knuckles",
+    "respuestas_incorrectas": [
+      "Shadow",
+      "Silver",
+      "Metal Sonic"
+    ],
+    "pista": "Es el guardián de la Master Emerald."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1980s",
+    "pregunta": "¿Qué consola de 16 bits fue lanzada por NEC en EE.UU.?",
+    "respuesta_correcta": "TurboGrafx-16",
+    "respuestas_incorrectas": [
+      "ColecoVision",
+      "Atari 7800",
+      "Sega CD"
+    ],
+    "pista": "Fue la primera consola de 16 bits en lanzarse en EE.UU."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de plataformas tiene como protagonista a un hongo que escupe fuego?",
+    "respuesta_correcta": "Yoshi",
+    "respuestas_incorrectas": [
+      "Wario",
+      "Birdo",
+      "Toad"
+    ],
+    "pista": "Apareció por primera vez en Super Mario World."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué compañía desarrolló 'Donkey Kong Country'?",
+    "respuesta_correcta": "Rare",
+    "respuestas_incorrectas": [
+      "Nintendo",
+      "Konami",
+      "Capcom"
+    ],
+    "pista": "Usó gráficos pre-renderizados por computadora."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Final Fantasy VII es un ex-Turco que busca redención?",
+    "respuesta_correcta": "Cloud Strife",
+    "respuestas_incorrectas": [
+      "Barret Wallace",
+      "Tifa Lockhart",
+      "Aerith Gainsborough"
+    ],
+    "pista": "Lleva una espada enorme llamada Buster Sword."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola fue lanzada por Nintendo en 1996 y tenía un controlador en forma de 'M'?",
+    "respuesta_correcta": "Nintendo 64",
+    "respuestas_incorrectas": [
+      "GameCube",
+      "Wii",
+      "Super Nintendo"
+    ],
+    "pista": "Tenía tres posiciones de agarre diferentes."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de aventuras tiene como protagonista a un niño con un casco espacial?",
+    "respuesta_correcta": "StarTropics",
+    "respuestas_incorrectas": [
+      "Zelda II",
+      "Kid Icarus",
+      "Metroid"
+    ],
+    "pista": "Fue exclusivo de NES en EE.UU."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Qué personaje de Mario es un hongo con sombrero rojo y bigote?",
+    "respuesta_correcta": "Toad",
+    "respuestas_incorrectas": [
+      "Yoshi",
+      "Koopa",
+      "Goomba"
+    ],
+    "pista": "Trabaja en el castillo de la Princesa Peach."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola usaba cintas de video como medio de almacenamiento?",
+    "respuesta_correcta": "Philips CD-i",
+    "respuestas_incorrectas": [
+      "Atari 2600",
+      "ColecoVision",
+      "Intellivision"
+    ],
+    "pista": "También tuvo juegos malos de Zelda."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de plataformas tiene como protagonista a un niño con un traje espacial?",
+    "respuesta_correcta": "Commander Keen",
+    "respuestas_incorrectas": [
+      "Duke Nukem",
+      "Bio Menace",
+      "Cosmo's Cosmic Adventure"
+    ],
+    "pista": "Fue creado por los fundadores de id Software."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué compañía desarrolló 'GoldenEye 007' para Nintendo 64?",
+    "respuesta_correcta": "Rare",
+    "respuestas_incorrectas": [
+      "Nintendo",
+      "Eurocom",
+      "Activision"
+    ],
+    "pista": "Fue un referente en shooters en consola."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de The Legend of Zelda es un espíritu del bosque?",
+    "respuesta_correcta": "Saria",
+    "respuestas_incorrectas": [
+      "Navi",
+      "Zelda",
+      "Ruto"
+    ],
+    "pista": "Le enseña a Link la canción del bosque."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola fue conocida por su lector de tarjetas y fue lanzada por Nintendo?",
+    "respuesta_correcta": "Virtual Boy",
+    "respuestas_incorrectas": [
+      "Game Boy Camera",
+      "Nintendo Power",
+      "Satellaview"
+    ],
+    "pista": "Era roja y mostraba gráficos en 3D, pero causaba dolores de cabeza."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "2000s",
+    "pregunta": "¿Qué juego de rol tiene como protagonista a un niño llamado Lucas?",
+    "respuesta_correcta": "Mother 3",
+    "respuestas_incorrectas": [
+      "EarthBound",
+      "Chrono Trigger",
+      "Final Fantasy VI"
+    ],
+    "pista": "Nunca fue lanzado oficialmente en inglés."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1980s",
+    "pregunta": "¿Qué personaje de Mega Man es su enemigo eterno y también creado por el Dr. Light?",
+    "respuesta_correcta": "Proto Man",
+    "respuestas_incorrectas": [
+      "Bass",
+      "Roll",
+      "Auto"
+    ],
+    "pista": "Lleva una capa y un escudo."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola fue lanzada por Bandai en 1993 y usaba cartuchos CD?",
+    "respuesta_correcta": "Playdia",
+    "respuestas_incorrectas": [
+      "Pippin",
+      "CD-i",
+      "LaserActive"
+    ],
+    "pista": "Fue dirigida a niños y tuvo poco éxito."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de plataformas tiene como protagonista a un gato ninja?",
+    "respuesta_correcta": "Gimmick!",
+    "respuestas_incorrectas": [
+      "Battletoads",
+      "Ninja Gaiden",
+      "Shinobi"
+    ],
+    "pista": "Fue lanzado para NES y es muy difícil."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué compañía desarrolló 'Banjo-Kazooie'?",
+    "respuesta_correcta": "Rare",
+    "respuestas_incorrectas": [
+      "Nintendo",
+      "Traveller's Tales",
+      "Core Design"
+    ],
+    "pista": "También hizo 'GoldenEye 007'."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Super Smash Bros. es un espíritu del bosque con arco?",
+    "respuesta_correcta": "Young Link",
+    "respuestas_incorrectas": [
+      "Link",
+      "Toon Link",
+      "Samus"
+    ],
+    "pista": "Viene de Ocarina of Time."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "medio",
+    "decada": "1970s",
+    "pregunta": "¿Qué consola fue lanzada por Mattel en los 70 y fue pionera en juegos electrónicos?",
+    "respuesta_correcta": "Intellivision",
+    "respuestas_incorrectas": [
+      "Odyssey",
+      "Coleco Telstar",
+      "Atari 2600"
+    ],
+    "pista": "Tenía controles con teclado numérico."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de aventuras tiene como protagonista a un niño que viaja en el tiempo?",
+    "respuesta_correcta": "Chrono Trigger",
+    "respuestas_incorrectas": [
+      "Final Fantasy V",
+      "Secret of Mana",
+      "Illusion of Gaia"
+    ],
+    "pista": "Fue desarrollado por Square y Enix."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Street Fighter es un luchador de sumo japonés?",
+    "respuesta_correcta": "E. Honda",
+    "respuestas_incorrectas": [
+      "Zangief",
+      "Blanka",
+      "T. Hawk"
+    ],
+    "pista": "Su especialidad es el 'Hundred Hand Slap'."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola fue la primera en usar un disco duro interno?",
+    "respuesta_correcta": "Sega Dreamcast",
+    "respuestas_incorrectas": [
+      "PlayStation 2",
+      "Xbox",
+      "Nintendo GameCube"
+    ],
+    "pista": "También tenía un módem integrado."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de plataformas tiene como protagonista a un niño con un bate de béisbol y amigos invisibles?",
+    "respuesta_correcta": "EarthBound",
+    "respuestas_incorrectas": [
+      "Super Mario Bros. 3",
+      "Kirby's Dream Land",
+      "Donkey Kong Country"
+    ],
+    "pista": "Uno de sus enemigos es un pollo llamado 'Runaway Five'."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1980s",
+    "pregunta": "¿Qué juego de Konami, lanzado en 1986, es considerado uno de los primeros ejemplos de narrativa en videojuegos?",
+    "respuesta_correcta": "Metal Gear",
+    "respuestas_incorrectas": [
+      "Contra",
+      "Castlevania",
+      "Snatcher"
+    ],
+    "pista": "Fue lanzado en MSX y sentó las bases del género de sigilo."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1980s",
+    "pregunta": "¿Qué juego de 1987 introdujo el sistema de 'password' para continuar partidas y fue pionero en la saga Zelda?",
+    "respuesta_correcta": "Zelda II: The Adventure of Link",
+    "respuestas_incorrectas": [
+      "The Legend of Zelda",
+      "Super Mario Bros. 2",
+      "Metroid"
+    ],
+    "pista": "Es el único juego de la serie con elementos de RPG y combate en perspectiva lateral."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1980s",
+    "pregunta": "¿Qué juego de 1989 para NES fue desarrollado por Squaresoft y marcó el inicio de su dominio en RPGs?",
+    "respuesta_correcta": "Final Fantasy",
+    "respuestas_incorrectas": [
+      "Dragon Quest",
+      "Chrono Trigger",
+      "Secret of Mana"
+    ],
+    "pista": "Fue creado como un último intento de salvar a la compañía de la quiebra."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de 1995 para SNES es famoso por su sistema de 'Active Time Battle' y su compleja trama cósmica?",
+    "respuesta_correcta": "Chrono Trigger",
+    "respuestas_incorrectas": [
+      "Final Fantasy VI",
+      "Xenogears",
+      "Super Mario RPG"
+    ],
+    "pista": "Tiene múltiples finales y fue desarrollado por un 'dream team' de Square."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de 1998 para Nintendo 64 revolucionó los controles de cámara en juegos 3D?",
+    "respuesta_correcta": "The Legend of Zelda: Ocarina of Time",
+    "respuestas_incorrectas": [
+      "Super Mario 64",
+      "Banjo-Kazooie",
+      "GoldenEye 007"
+    ],
+    "pista": "Introdujo el 'Z-targeting' y es considerado uno de los mejores juegos de la historia."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de 1996 para PlayStation fue uno de los primeros survival horror y marcó el inicio de una saga icónica?",
+    "respuesta_correcta": "Resident Evil",
+    "respuestas_incorrectas": [
+      "Silent Hill",
+      "Alone in the Dark",
+      "Clock Tower"
+    ],
+    "pista": "Originalmente se llamaba 'Biohazard' en Japón."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "dificil",
+    "decada": "1980s",
+    "pregunta": "¿Qué personaje de la serie Metroid es un cyborg que ha luchado contra la Federación Galáctica?",
+    "respuesta_correcta": "Samus Aran",
+    "respuestas_incorrectas": [
+      "Ridley",
+      "Mother Brain",
+      "Adam Malkovich"
+    ],
+    "pista": "Es la primera protagonista femenina en un videojuego de acción."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "dificil",
+    "decada": "1980s",
+    "pregunta": "¿Qué enemigo de Mega Man es conocido por ser una versión oscura y rebelde creada por el Dr. Wily?",
+    "respuesta_correcta": "Bass",
+    "respuestas_incorrectas": [
+      "Proto Man",
+      "Auto",
+      "Elec Man"
+    ],
+    "pista": "También es conocido como 'Mega Man 64' en algunas versiones."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Street Fighter III es un luchador de estilo de boxeo moderno y busca a su hermano?",
+    "respuesta_correcta": "Alex",
+    "respuestas_incorrectas": [
+      "Dudley",
+      "Sean",
+      "Necro"
+    ],
+    "pista": "Aparece como protagonista en la portada de Street Fighter III: New Generation."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué personaje de Final Fantasy VIII es un mercenario con un garfio y una actitud fría?",
+    "respuesta_correcta": "Squall Leonhart",
+    "respuestas_incorrectas": [
+      "Seifer",
+      "Zell",
+      "Irvine"
+    ],
+    "pista": "Su arma es la 'Lion Heart' y odia las largas conversaciones."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1980s",
+    "pregunta": "¿Qué consola de 1985 fue lanzada por Commodore y tuvo un fuerte impacto en Europa?",
+    "respuesta_correcta": "Commodore 64",
+    "respuestas_incorrectas": [
+      "Amiga 500",
+      "ZX Spectrum",
+      "Atari 800XL"
+    ],
+    "pista": "Fue una de las computadoras personales más vendidas de la historia."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola de 1993 fue desarrollada por 3DO y tuvo un alto precio de lanzamiento?",
+    "respuesta_correcta": "3DO Interactive Multiplayer",
+    "respuestas_incorrectas": [
+      "Atari Jaguar",
+      "Neo Geo CD",
+      "CD-i"
+    ],
+    "pista": "Fue fabricada por Panasonic y promocionada por Trip Hawkins."
+  },
+  {
+    "categoria": "consolas",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué consola de 1999 fue la primera en incluir un módem integrado para jugar en línea?",
+    "respuesta_correcta": "Sega Dreamcast",
+    "respuestas_incorrectas": [
+      "PlayStation",
+      "Nintendo 64",
+      "Saturn"
+    ],
+    "pista": "Permitía jugar a 'Phantasy Star Online' con conexión a Internet."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "medio",
+    "decada": "1980s",
+    "pregunta": "¿Qué desarrollador creó 'The Legend of Zelda' y ha dirigido múltiples títulos de Nintendo?",
+    "respuesta_correcta": "Shigeru Miyamoto",
+    "respuestas_incorrectas": [
+      "Satoshi Tajiri",
+      "Hideo Kojima",
+      "Yuji Naka"
+    ],
+    "pista": "También creó Super Mario y Donkey Kong."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué desarrollador creó 'Sonic the Hedgehog' y fue clave en la identidad de Sega en los 90?",
+    "respuesta_correcta": "Yuji Naka",
+    "respuestas_incorrectas": [
+      "Naoto Ohshima",
+      "Hirokazu Yasuhara",
+      "Sonic Team"
+    ],
+    "pista": "Programó el algoritmo de movimiento de Sonic basado en la física."
+  },
+  {
+    "categoria": "desarrolladores",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué compañía desarrolló 'Tekken' y 'Soul Calibur'?",
+    "respuesta_correcta": "Namco",
+    "respuestas_incorrectas": [
+      "Capcom",
+      "SNK",
+      "Taito"
+    ],
+    "pista": "También creó 'Pac-Man' y 'Galaga'."
+  },
+  {
+    "categoria": "trucos_y_cheats",
+    "nivel": "basico",
+    "decada": "1980s",
+    "pregunta": "¿Qué juego de NES permite al jugador volar usando un 'código de trineo' en la pantalla de título?",
+    "respuesta_correcta": "Battletoads",
+    "respuestas_incorrectas": [
+      "Double Dragon",
+      "Teenage Mutant Ninja Turtles",
+      "River City Ransom"
+    ],
+    "pista": "El código es: Abajo, Abajo, Arriba, Arriba, Izquierda, Derecha, Izquierda, Derecha, B, A."
+  },
+  {
+    "categoria": "trucos_y_cheats",
+    "nivel": "medio",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de 1997 para PlayStation permite desbloquear personajes ocultos con un código en el menú de opciones?",
+    "respuesta_correcta": "Tekken 3",
+    "respuestas_incorrectas": [
+      "Street Fighter Alpha 3",
+      "Soul Calibur",
+      "Dead or Alive 2"
+    ],
+    "pista": "Uno de los personajes ocultos es 'Unknown', un jefe misterioso."
+  },
+  {
+    "categoria": "juegos",
+    "nivel": "dificil",
+    "decada": "1990s",
+    "pregunta": "¿Qué juego de 1994 para SNES permitía al jugador fusionar monstruos y crear equipos únicos?",
+    "respuesta_correcta": "Dragon Quest VI: Realms of Revelation",
+    "respuestas_incorrectas": [
+      "Final Fantasy V",
+      "Tactics Ogre",
+      "Shining Force III"
+    ],
+    "pista": "Fue desarrollado por Chunsoft y lanzado solo en Japón durante años."
+  },
+  {
+    "categoria": "personajes",
+    "nivel": "medio",
+    "decada": "1980s",
+    "pregunta": "¿Qué personaje de la saga Castlevania es un cazador de vampiros con látigo y sombrero?",
+    "respuesta_correcta": "Simon Belmont",
+    "respuestas_incorrectas": [
+      "Alucard",
+      "Richter Belmont",
+      "Trevor Cottom"
+    ],
+    "pista": "Apareció por primera vez en 1986 y es el primer Belmont en la saga."
+  }
+]
