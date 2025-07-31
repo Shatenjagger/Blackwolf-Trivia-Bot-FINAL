@@ -1,3 +1,15 @@
+const express = require('express');
+const app = express();
+
+// Para mantener el bot despierto
+app.get('/', (req, res) => {
+  res.send('🐾 BlackWolf está despierto. Carlos vive.');
+});
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`🟢 Servidor web iniciado en puerto ${PORT}`);
+});
 // bot-discord/index.js
 require('dotenv').config();
 const {
@@ -436,3 +448,81 @@ async function iniciarTrivia(message, userId) {
 
 // Iniciar el bot
 client.login(process.env.DISCORD_TOKEN);
+// === SISTEMA LOBO ALFA ===
+const cron = require('node-cron');
+
+// Ruta de los archivos
+const PUNTOS_FILE = path.join(__dirname, 'puntos.json');
+const LOBO_ALFA_FILE = path.join(__dirname, 'lobo_alfa.json');
+
+// Actualiza al Lobo Alfa cada lunes a las 00:00
+cron.schedule('0 0 * * 1', () => {
+  try {
+    const puntos = JSON.parse(fs.readFileSync(PUNTOS_FILE, 'utf8'));
+    const ids = Object.keys(puntos).filter(k => typeof puntos[k] === 'object');
+
+    let maxPuntos = -1;
+    let loboAlfa = null;
+
+    for (const id of ids) {
+      if (puntos[id].puntos > maxPuntos) {
+        maxPuntos = puntos[id].puntos;
+        loboAlfa = { id, ...puntos[id] };
+      }
+    }
+
+    if (loboAlfa) {
+      const data = {
+        ...loboAlfa,
+        semana: new Date().toLocaleDateString('en-CA') // Ej: 2025-07-31
+      };
+      fs.writeFileSync(LOBO_ALFA_FILE, JSON.stringify(data, null, 2));
+      console.log(`🏆 Lobo Alfa actualizado: ${loboAlfa.nombre} (${loboAlfa.puntos} pts)`);
+
+      // Opcional: asignar rol en Discord
+      const guild = client.guilds.cache.first();
+      if (guild) {
+        const member = guild.members.cache.get(loboAlfa.id);
+        const rol = guild.roles.cache.find(r => r.name === "Lobo Alfa");
+        if (member && rol) {
+          member.roles.add(rol)
+            .then(() => console.log(`✅ Rol asignado a ${member.displayName}`))
+            .catch(console.error);
+        }
+      }
+
+      // Anunciar en el servidor
+      const channel = guild.channels.cache.find(ch => ch.name === 'trivias-gamer');
+      if (channel) {
+        channel.send(
+          `🐺 **¡Nuevo Lobo Alfa de la semana!**\n` +
+          `El jugador más fuerte es **${loboAlfa.nombre}** con **${loboAlfa.puntos} puntos**.\n` +
+          `¡Desafíalo en !trivia!`
+        );
+      }
+    }
+  } catch (err) {
+    console.error('❌ Error actualizando Lobo Alfa:', err);
+  }
+});
+
+// Comando: !loboalfa
+client.on('messageCreate', msg => {
+  if (msg.content === '!loboalfa') {
+    try {
+      const lobo = JSON.parse(fs.readFileSync(LOBO_ALFA_FILE, 'utf8'));
+      if (lobo.id === "") {
+        msg.reply("Todavía no hay un Lobo Alfa definido. ¡Juega para ser el primero!");
+        return;
+      }
+      msg.reply(
+        `🐺 **Lobo Alfa de la semana**\n` +
+        `**Nombre:** ${lobo.nombre}\n` +
+        `**Puntos:** ${lobo.puntos}\n` +
+        `¡Demuestra que puedes superarlo en !trivia!`
+      );
+    } catch (e) {
+      msg.reply("No se pudo cargar al Lobo Alfa. Asegúrate de que el sistema ya haya corrido una semana.");
+    }
+  }
+});

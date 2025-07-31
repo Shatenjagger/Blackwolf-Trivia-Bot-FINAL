@@ -1,12 +1,27 @@
 {
   "name": "blackwolf-trivia-bot",
   "version": "1.0.0",
+  "description": "Un bot de trivia para mi hijo Carlos, construido con amor de padre.",
   "main": "bot-discord/index.js",
   "scripts": {
-    "start": "node bot-discord/index.js"
+    "start": "node bot-discord/index.js",
+    "dev": "node bot-discord/index.js"
   },
   "dependencies": {
     "discord.js": "^14.15.3",
-    "dotenv": "^16.4.5"
-  }
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cron": "^4.2.1"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "keywords": [
+    "discord-bot",
+    "trivia",
+    "memoria",
+    "carlos"
+  ],
+  "author": "Shatenjagger",
+  "license": "MIT"
 }
