@@ -12,6 +12,14 @@ Con **96 preguntas únicas**, sistema de puntos, leaderboard automático y mensa
 - ✅ Mensajes con personalidad: *"¿Otra? Seguro fue suerte la última vez..."*
 - ✅ Filtro por categoría, nivel y década
 - ✅ 24/7 en Replit
+-
+-  ## 🐺 Sistema Lobo Alfa
+
+- ✅ Implementado el 31 de julio, 2025
+- Cada semana, el jugador con más puntos se convierte en **Lobo Alfa**
+- Obtiene un rol especial en Discord
+- Comando: `!loboalfa`
+- Actualización automática cada lunes a las 00:00
 
 ## 📜 Historia
 Este bot fue creado por **Hollow Point** como un regalo de amor para su hijo **Carlos**.  
