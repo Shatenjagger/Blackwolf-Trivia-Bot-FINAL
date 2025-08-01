@@ -1,0 +1,47 @@
+name: 📢 Publicar Leaderboard en Reddit
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1'  # Lunes a las 00:00 UTC
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📦 Clonar repositorio
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📁 Verificar archivos
+        run: |
+          echo "Archivos en raíz:"
+          ls -la
+          if [ -f "puntos.json" ]; then
+            echo "✅ puntos.json encontrado"
+          else
+            echo "❌ No se encontró puntos.json"
+            exit 1
+          fi
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 🔧 Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install praw
+
+      - name: ▶️ Ejecutar bot de Reddit
+        run: python bot.py
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+
