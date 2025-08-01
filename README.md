@@ -99,17 +99,5 @@ Para Carlos. Siempre.
 
 ---
 
-### ✅ Cambios clave realizados
 
-| Sección | Actualización |
-|--------|---------------|
-| **Tiempo de respuesta** | De 30s a **15s** (más justo, evita ayuda externa) |
-| **Pista** | Ahora aparece en los **últimos 5 segundos**, no en 15-10 |
-| **Flujo de trivia** | Ahora especifica que sigue automáticamente si es correcta |
-| **Sincronización** | Detalla cómo se sube `puntos.json` a GitHub |
-| **Reddit Bot** | Incluye el workflow y el script `bot.py` |
-| **Estructura** | Añadida para claridad técnica |
-| **Mantenimiento** | Guía clara para evitar duplicados en Replit |
-
----
 
