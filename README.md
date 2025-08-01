@@ -96,9 +96,9 @@ Es un **legado**.
 
 Creado con amor, café, cerveza y nostalgia.  
 Para Carlos. Siempre.
-```
 
----
+
+
 
 
 
