@@ -61,7 +61,7 @@ Blackwolf-Trivia-Bot-FINAL/
    npm install
    ```
 3. Configura tu `.env`:
-  3. Configura tu `.env`:
+  
    ```env
    TOKEN=
    GITHUB_TOKEN=
@@ -70,10 +70,11 @@ Blackwolf-Trivia-Bot-FINAL/
    REDDIT_USERNAME=
    REDDIT_PASSWORD=
    REDDIT_USER_AGENT=
-   ```🔐 Estas credenciales deben configurarse en Settings > Secrets and variables > Actions de tu repositorio en GitHub.
+   ```🔐 Estas credenciales deben configurarse en Settings > Secrets and variables > Actions de tu repositorio en GitHub.```
+
 4. Ejecuta el bot:
    node index.js
-   ```
+   
 5. Asegúrate de que el servidor web escuche en `PORT` (Replit)
 
 ## 🔄 Mantenimiento y Estabilidad
