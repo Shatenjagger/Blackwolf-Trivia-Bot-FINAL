@@ -62,14 +62,15 @@ Blackwolf-Trivia-Bot-FINAL/
    ```
 3. Configura tu `.env`:
    ```env
-   TOKEN=TuTokenDeBotDeDiscord
-   GITHUB_TOKEN=TuTokenDeAccesoPersonal
-   REDDIT_CLIENT_ID=TuClientID
-   REDDIT_CLIENT_SECRET=TuClientSecret
-   REDDIT_USERNAME=TuUsuarioReddit
-   REDDIT_PASSWORD=TuContraseñaReddit
-   REDDIT_USER_AGENT=blackwolfbot/1.0 by u/Hollow_Point79
+  TOKEN=
+GITHUB_TOKEN=
+REDDIT_CLIENT_ID=
+REDDIT_CLIENT_SECRET=
+REDDIT_USERNAME=
+REDDIT_PASSWORD=
+REDDIT_USER_AGENT=
    ```
+🔐 Estas credenciales deben configurarse en Settings > Secrets and variables > Actions de tu repositorio en GitHub. 
 4. Ejecuta el bot:
    ```bash
    node index.js
