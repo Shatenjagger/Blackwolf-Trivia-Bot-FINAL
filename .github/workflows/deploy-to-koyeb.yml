@@ -1,0 +1,25 @@
+name: Deploy to Koyeb
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Desplegar en Koyeb
+        run: |
+          curl -X POST https://app.koyeb.com/v1/apps/76a9c491-658c-4bdd-8b38-08e2f543c842/deploy \
+            -H "Authorization: Bearer ${{ secrets.KOYEB_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "env": {
+                "DISCORD_TOKEN": "${{ secrets.DISCORD_TOKEN }}",
+                "DISCORD_CHANNEL_ID": "${{ secrets.DISCORD_CHANNEL_ID }}"
+              }
+            }'
